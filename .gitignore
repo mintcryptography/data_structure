@@ -1,0 +1,9 @@
+build/
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+.vs/
+.vscode/
+tests/bin/
